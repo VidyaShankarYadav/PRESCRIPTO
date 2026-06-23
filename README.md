@@ -9,9 +9,6 @@ This full stack appointment booking system can be used by a doctor or a hospital
 
 <div align="center">
 
-## LIVE - DEMO 🌐
-  
-
 </div>
 
 <br/><hr/><br/>
